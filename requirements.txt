@@ -1,0 +1,8 @@
+pgmpy
+pandas
+numpy
+matplotlib
+scikit-learn
+networkx
+pyro-ppl
+seaborn
